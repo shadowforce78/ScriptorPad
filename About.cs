@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.IO;
 
 namespace MyNotepad {
     public partial class About : Form {
@@ -18,7 +19,7 @@ namespace MyNotepad {
         }
 
         private void controlSimplyGoodCodeLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) {
-            System.Diagnostics.Process.Start("http://scriptorcode.7m.pl");
+            Process.Start("http://scriptorcode.7m.pl");
         }
     }
 }
