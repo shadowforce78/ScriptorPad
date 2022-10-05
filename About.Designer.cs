@@ -80,7 +80,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(70, 13);
             this.label3.TabIndex = 4;
-            this.label3.Text = "by scriptorjs";
+            this.label3.Text = "by SaumonDeLuxe";
             // 
             // controlSimplyGoodCodeLinkLabel
             // 
@@ -90,7 +90,7 @@
             this.controlSimplyGoodCodeLinkLabel.Size = new System.Drawing.Size(164, 13);
             this.controlSimplyGoodCodeLinkLabel.TabIndex = 5;
             this.controlSimplyGoodCodeLinkLabel.TabStop = true;
-            this.controlSimplyGoodCodeLinkLabel.Text = "http://scriptorcode.7m.pl";
+            this.controlSimplyGoodCodeLinkLabel.Text = "https://scriptorcode.vercel.app/";
             this.controlSimplyGoodCodeLinkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.controlSimplyGoodCodeLinkLabel_LinkClicked);
             // 
             // About
