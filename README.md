@@ -1,3 +1,3 @@
 ScriptorPad
 ============
-ScriptorPad by 死が来るスクリプト ⁶₆⁷#6969
+ScriptorPad by SaumonDeLuxe#2960
