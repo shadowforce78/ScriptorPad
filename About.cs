@@ -19,7 +19,7 @@ namespace MyNotepad {
         }
 
         private void controlSimplyGoodCodeLinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) {
-            Process.Start("http://scriptorcode.7m.pl");
+            Process.Start("https://scriptorcode.vercel.app/");
         }
     }
 }
